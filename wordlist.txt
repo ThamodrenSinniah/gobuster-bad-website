@@ -1,0 +1,12 @@
+admin
+images
+view
+images/image1
+images/image2
+duerrdental
+thamo
+image1
+image2
+api
+/api/secret
+secret
